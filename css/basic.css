@@ -1,20 +1,27 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
 #container {
     width: 600px;
-    
     margin: 10px auto;
+    
+    border: 1px solid #cecab9;
 }
 
 #topbar {
     height: 210px;
+    
+    background-color: #51473d;
 }
 
 #menu {
     height: 40px;
+    
+    background-color: #51473d;
 }
 
 #content {
     width: 100%;
+    
+    background-color: #eae7d2;
 }
 
 #maincontent {
