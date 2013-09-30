@@ -9,7 +9,12 @@
 #topbar {
     height: 210px;
     
+    padding-top: 5px;
+    
     background-color: #51473d;
+    background-image: url("pics/coffey.jpg");
+    background-repeat: no-repeat;
+    background-position: 0 20px;
 }
 
 #menu {
